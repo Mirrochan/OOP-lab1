@@ -1,0 +1,86 @@
+E:\С# training\ООП\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.exe
+E:\С# training\ООП\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.deps.json
+E:\С# training\ООП\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.runtimeconfig.json
+E:\С# training\ООП\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.dll
+E:\С# training\ООП\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.pdb
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\App.g.cs
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1_MarkupCompile.cache
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1_MarkupCompile.lref
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\MainWindow.baml
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.g.resources
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.AssemblyInfoInputs.cache
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.AssemblyInfo.cs
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.csproj.CoreCompileInputs.cache
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.dll
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\refint\lab1.1.dll
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.pdb
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.genruntimeconfig.cache
+E:\С# training\ООП\lab1.1\lab1.1\obj\Debug\net8.0-windows\ref\lab1.1.dll
+E:\С# training\lab1.1.testing\lab1.1\bin\Debug\net8.0-windows\lab1.1.exe
+E:\С# training\lab1.1.testing\lab1.1\bin\Debug\net8.0-windows\lab1.1.deps.json
+E:\С# training\lab1.1.testing\lab1.1\bin\Debug\net8.0-windows\lab1.1.runtimeconfig.json
+E:\С# training\lab1.1.testing\lab1.1\bin\Debug\net8.0-windows\lab1.1.dll
+E:\С# training\lab1.1.testing\lab1.1\bin\Debug\net8.0-windows\lab1.1.pdb
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\AddPage.g.cs
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\App.g.cs
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1_MarkupCompile.cache
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1_MarkupCompile.lref
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\AddPage.baml
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\MainWindow.baml
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1.g.resources
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1.AssemblyInfoInputs.cache
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1.AssemblyInfo.cs
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1.csproj.CoreCompileInputs.cache
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1.dll
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\refint\lab1.1.dll
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1.pdb
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\lab1.1.genruntimeconfig.cache
+E:\С# training\lab1.1.testing\lab1.1\obj\Debug\net8.0-windows\ref\lab1.1.dll
+E:\С# training\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.exe
+E:\С# training\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.deps.json
+E:\С# training\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.runtimeconfig.json
+E:\С# training\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.dll
+E:\С# training\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.pdb
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\AddPage.g.cs
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\App.g.cs
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1_MarkupCompile.cache
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1_MarkupCompile.lref
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\AddPage.baml
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\MainWindow.baml
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.g.resources
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.AssemblyInfoInputs.cache
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.AssemblyInfo.cs
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.csproj.CoreCompileInputs.cache
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.dll
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\refint\lab1.1.dll
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.pdb
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.genruntimeconfig.cache
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\ref\lab1.1.dll
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\PictureWind.g.cs
+E:\С# training\lab1.1\lab1.1\obj\Debug\net8.0-windows\PictureWind.baml
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1_MarkupCompile.cache
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1_MarkupCompile.lref
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.dll
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\refint\lab1.1.dll
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.pdb
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\App.g.cs
+D:\Desktop\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.exe
+D:\Desktop\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.deps.json
+D:\Desktop\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.runtimeconfig.json
+D:\Desktop\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.dll
+D:\Desktop\lab1.1\lab1.1\bin\Debug\net8.0-windows\lab1.1.pdb
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.g.resources
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.AssemblyInfoInputs.cache
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.AssemblyInfo.cs
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.csproj.CoreCompileInputs.cache
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\lab1.1.genruntimeconfig.cache
+D:\Desktop\lab1.1\lab1.1\obj\Debug\net8.0-windows\ref\lab1.1.dll
